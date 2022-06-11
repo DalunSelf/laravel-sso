@@ -2,13 +2,13 @@
   "name": "codeedu/laravel-sso",
   "require": {
     "php": "^7.1.3|^8.0",
-    "illuminate/session": "~5.5",
-    "illuminate/cookie": "~5.5",
-    "illuminate/routing": "~5.5",
-    "illuminate/validation": "~5.5",
+    "illuminate/session": "~5.5|^9.x",
+    "illuminate/cookie": "~5.5|^9.x",
+    "illuminate/routing": "~5.5|^9.x",
+    "illuminate/validation": "~5.5|^9.x",
     "jasny/sso": "^0.3.0",
-    "illuminate/cache": "~5.5",
-    "guzzlehttp/guzzle": "~6.0"
+    "illuminate/cache": "~5.5|^9.x",
+    "guzzlehttp/guzzle": "~6.0|^9.x"
   },
   "autoload": {
     "psr-4": {
