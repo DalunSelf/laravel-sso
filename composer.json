@@ -8,7 +8,7 @@
     "illuminate/validation": "~5.5|^9.x",
     "jasny/sso": "^0.3.0",
     "illuminate/cache": "~5.5|^9.x",
-    "guzzlehttp/guzzle": "~6.0|^9.x"
+    "guzzlehttp/guzzle": "~6.0"
   },
   "autoload": {
     "psr-4": {
